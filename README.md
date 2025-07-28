@@ -50,5 +50,5 @@ iris-clustering/
 ## ✅ To Run
 
 ```bash
-python iris_kmeans.py
+python3 iris_kmeans.py
 ```
